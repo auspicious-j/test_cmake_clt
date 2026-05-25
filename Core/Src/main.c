@@ -136,6 +136,8 @@ int main(void)
      HAL_Delay(500);
      i++;
      //test
+     //test2
+     //test3
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
